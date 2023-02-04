@@ -1,5 +1,5 @@
 {
-  "name": "working-time-reporter-on-github-issues",
+  "name": "github-issue-working-time-reporter",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -13,13 +13,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/HiromiShikata/working-time-reporter-on-github-issues.git"
+    "url": "git+https://github.com/HiromiShikata/github-issue-working-time-reporter.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/HiromiShikata/working-time-reporter-on-github-issues/issues"
+    "url": "https://github.com/HiromiShikata/github-issue-working-time-reporter/issues"
   },
   "release": {
     "plugins": [
@@ -32,7 +32,7 @@
       "main"
     ]
   },
-  "homepage": "https://github.com/HiromiShikata/working-time-reporter-on-github-issues#readme",
+  "homepage": "https://github.com/HiromiShikata/github-issue-working-time-reporter#readme",
   "devDependencies": {
     "@types/jest": "^29.2.6",
     "@typescript-eslint/eslint-plugin": "^5.48.2",
