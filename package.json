@@ -35,8 +35,8 @@
   "homepage": "https://github.com/HiromiShikata/github-issue-working-time-reporter#readme",
   "devDependencies": {
     "@types/jest": "^29.2.6",
-    "@typescript-eslint/eslint-plugin": "^5.48.2",
-    "@typescript-eslint/parser": "^5.48.2",
+    "@typescript-eslint/eslint-plugin": "^6.0.0",
+    "@typescript-eslint/parser": "^6.0.0",
     "conventional-changelog-conventionalcommits": "^6.0.0",
     "eslint": "^8.32.0",
     "eslint-plugin-import": "^2.27.5",
